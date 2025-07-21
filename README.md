@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy [Tu Nombre]
+# 👋 ¡Hola! Soy [Jhon]
 
 🎯 Analista de Datos | Python • SQL • Power BI • Excel  
 🔍 Apasionado por convertir datos en decisiones accionables  
