@@ -1,8 +1,8 @@
-# 👋 ¡Hola! Soy [Jhon]
+# 👋 ¡Hola! Soy Jhon
 
 🎯 Analista de Datos | Python • SQL • Power BI • Excel  
 🔍 Apasionado por convertir datos en decisiones accionables  
-📍 Basado en [Tu ciudad o país]  
+📍 Lima, Perú
 
 ---
 
@@ -45,9 +45,9 @@ Actualmente estoy mejorando mis habilidades en ciencia de datos y modelado predi
 
 ### 📫 ¿Hablamos?
 
-- ✉️ Email: [tucorreo@email.com](mailto:tucorreo@email.com)
-- 💼 LinkedIn: [linkedin.com/in/tuusuario](https://linkedin.com/in/tuusuario)
-- 🌐 Portafolio: [www.tuportafolio.com](https://www.tuportafolio.com)
+- ✉️ Email: [jhonvilcarana@gmail.com](mailto:jhonvilcarana@gmail.com)
+- 💼 LinkedIn: [linkedin.com/in/jhonvilcarana/](https://www.linkedin.com/in/jhonvilcarana/)
+- 🌐 Portafolio: [https://sites.google.com/view/jvt-portafolio/inicio](https://sites.google.com/view/jvt-portafolio/inicio)
 
 ---
 
