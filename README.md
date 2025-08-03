@@ -27,9 +27,11 @@ Actualmente estoy mejorando mis habilidades en ciencia de datos y modelado predi
 
 ### 📂 Proyectos destacados
 
+### 📂 Proyectos destacados
+
 | Proyecto | Descripción | Tecnologías |
-|---------|-------------|-------------|
-| [ FacturIA - Automatización Inteligente de Facturas con Python, GPT-4o, PostgreSQL y Power BI]([https://github.com/JhonVilcarana/Limpieza_y_Transformacion.git)](https://github.com/JhonVilcarana/Facturia_Proyect/tree/main) | Análisis interactivo de KPIs de ventas para una cadena de tiendas | Power BI, Excel |
+|----------|-------------|-------------|
+| [FacturIA - Automatización Inteligente de Facturas](https://github.com/JhonVilcarana/Facturia_Proyect) | Sistema completo para extraer, estructurar y visualizar datos de facturas PDF usando IA y Power BI | Python, OpenAI GPT-4o, PostgreSQL, Flask, Power BI |
 | [Análisis de datos de salud](#) | Limpieza y visualización de datos de anemia infantil | Python, Pandas, Matplotlib |
 | [Base de datos de películas](#) | Consulta y visualización de películas más populares | SQL, Tableau |
 | [Base de datos de películas](#) | Consulta y visualización de películas más populares | SQL, Tableau |
