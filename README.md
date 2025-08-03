@@ -29,7 +29,7 @@ Actualmente estoy mejorando mis habilidades en ciencia de datos y modelado predi
 
 | Proyecto | Descripción | Tecnologías |
 |---------|-------------|-------------|
-| [Dashboard de Ventas en Power BI](https://github.com/JhonVilcarana/Limpieza_y_Transformacion.git) | Análisis interactivo de KPIs de ventas para una cadena de tiendas | Power BI, Excel |
+| [ FacturIA - Automatización Inteligente de Facturas con Python, GPT-4o, PostgreSQL y Power BI]([https://github.com/JhonVilcarana/Limpieza_y_Transformacion.git)](https://github.com/JhonVilcarana/Facturia_Proyect/tree/main) | Análisis interactivo de KPIs de ventas para una cadena de tiendas | Power BI, Excel |
 | [Análisis de datos de salud](#) | Limpieza y visualización de datos de anemia infantil | Python, Pandas, Matplotlib |
 | [Base de datos de películas](#) | Consulta y visualización de películas más populares | SQL, Tableau |
 | [Base de datos de películas](#) | Consulta y visualización de películas más populares | SQL, Tableau |
