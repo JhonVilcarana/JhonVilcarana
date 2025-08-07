@@ -27,8 +27,6 @@ Actualmente estoy mejorando mis habilidades en ciencia de datos y modelado predi
 
 ### 📂 Proyectos destacados
 
-### 📂 Proyectos destacados
-
 | Proyecto | Descripción | Tecnologías |
 |----------|-------------|-------------|
 | [FacturIA - Automatización Inteligente de Facturas](https://github.com/JhonVilcarana/Facturia_Proyect) | Sistema completo para extraer, estructurar y visualizar datos de facturas PDF usando IA | Python, OpenAI GPT-4o, PostgreSQL, Flask, Power BI |
