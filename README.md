@@ -30,7 +30,7 @@ Actualmente estoy mejorando mis habilidades en ciencia de datos y modelado predi
 | Proyecto | Descripción | Tecnologías |
 |----------|-------------|-------------|
 | [FacturIA - Automatización Inteligente de Facturas](https://github.com/JhonVilcarana/Facturia_Proyect) | Sistema completo para extraer, estructurar y visualizar datos de facturas PDF usando IA | Python, OpenAI GPT-4o, PostgreSQL, Flask, Power BI |
-| [Análisis de datos de salud](#) | Limpieza y visualización de datos de anemia infantil | Python, Pandas, Matplotlib |
+| [Análisis de datos de salud](https://github.com/JhonVilcarana/Anemia_Fuzzy_Entropy) | Modelo de clasificación con XGBoost y entropía difusa para predecir la prevalencia de anemia en niños.| Python, XGBoost, Scikit-learn, Scikit-Fuzzy |
 | [Base de datos de películas](#) | Consulta y visualización de películas más populares | SQL, Tableau |
 | [Base de datos de películas](#) | Consulta y visualización de películas más populares | SQL, Tableau |
 | [Base de datos de películas](#) | Consulta y visualización de películas más populares | SQL, Tableau |
