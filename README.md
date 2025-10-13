@@ -40,9 +40,10 @@ Actualmente estoy mejorando mis habilidades en ciencia de datos y modelado predi
 
 ### 📜 Certificados
 
-- [📘 Google Data Analytics – Coursera](#)
-- [📊 Análisis de Datos con Power BI – Platzi](#)
-- [🧠 Fundamentos de Machine Learning – Udemy](#)
+- [🏆 Certificado Profesional de Análisis de Datos – Google](https://drive.google.com/file/d/1ORAkqyL82Q7Zrut2XHLZXHYxrGpYEXVK/view?usp=sharing) (2025)
+- [📈 Excel Avanzado – Interbank](https://drive.google.com/file/d/1eiG8SgjRIqNTmSsTYFtaISDmvR3YMrrs/view?usp=sharing) (2025)
+- [🐍 Python Intermedio – Datacamp](https://drive.google.com/file/d/12tFb4rQuMd0KJA7sGZ-fzJoGLhSpyQvA/view?usp=sharing) (2024)
+- [🗃️ SQL Intermedio – Datacamp](https://drive.google.com/file/d/1ske8Fg-doQXRY1WYrJCAeukkwPz0k_hb/view?usp=sharing) (2024)
 
 ---
 
